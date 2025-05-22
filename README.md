@@ -1,5 +1,5 @@
 # Panther Transit
-An application designed to help Georgia State’s students commute in a smarter and safer way
+An application designed to help Georgia State’s students commute in a smarter and safer way.
 The mobile app provides real-time updates from multiple sources, including, MARTA transportation system, GSU’s transportation and parking system, traffic monitoring services, and weather update systems.
 Developed using React Native with Expo Go and backed by Supabase.
 
